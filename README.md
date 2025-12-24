@@ -24,19 +24,21 @@
 
 <br>
 
-<a href="https://github.com/ngelx">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=ngelx&theme=transparent" 
-    height=200
-    align="center"
-    alt="ngelx's GitHub Stats"
-  />
-</a>
-<a href="https://github.com/ngelx">
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ngelx&layout=compact&langs_count=8&card_width=320&theme=transparent"
-    height=200
-    align="center"
-    alt="ngelx's Most Used Languages"
-  />
-</a>
+<div align="center">
+  <a href="https://github.com/ngelx">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=ngelx&theme=transparent&rank_icon=github"
+      height=200
+      align="center"
+      alt="ngelx's GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/ngelx">
+    <img 
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ngelx&layout=compact&langs_count=8&card_width=320&theme=transparent"
+      height=200
+      align="center"
+      alt="ngelx's Most Used Languages"
+    />
+  </a>
+</div>
