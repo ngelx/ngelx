@@ -25,6 +25,6 @@
 <br>
 
 <div align=center>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=ngelx&theme=transparent&layout=normal&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ngelx's Most Used Languages" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ngelx&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ngelx's GitHub Stats" />
+  <img width=325 src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ngelx&theme=transparent&layout=normal&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ngelx's Most Used Languages" />
+  <img width=390 src="https://github-readme-stats-fast.vercel.app/api?username=ngelx&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ngelx's GitHub Stats" />
 </div>
