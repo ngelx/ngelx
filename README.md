@@ -1,15 +1,13 @@
-## Hi there 👋
-
 <img src="https://github.com/ngelx/ngelx/blob/main/assets/banner.png" alt="Banner of a developer sitting in front of a desk">
 
 ### Senior developer, company founder, and multilingual engineer with 15+ years of experience. Turning ideas into solutions
 
 <div align="center">
   <a href="mailto:ngelx@proton.me">
-    <img src="https://img.shields.io/badge/email-%20%E2%9C%89%EF%B8%8F-555?style=flat-square&logo=protonmail&logoColor=ffffff" alt="Email" />
+    <img src="https://img.shields.io/badge/email-%20%E2%9C%89%EF%B8%8F-555?style=for-the-badge&logo=protonmail&logoColor=ffffff" alt="Email" />
   </a>
   <a href="https://www.ngel.me" target="_blank">
-    <img src="https://img.shields.io/badge/www.ngel.me-555?style=flat-square&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iI2ZmZmZmZiIgY2xhc3M9ImJpIGJpLWhvdXNlIiB2aWV3Qm94PSIwIDAgMTYgMTYiPgogIDxwYXRoIGQ9Ik04LjcwNyAxLjVhMSAxIDAgMCAwLTEuNDE0IDBMLjY0NiA4LjE0NmEuNS41IDAgMCAwIC43MDguNzA4TDIgOC4yMDdWMTMuNUExLjUgMS41IDAgMCAwIDMuNSAxNWg5YTEuNSAxLjUgMCAwIDAgMS41LTEuNVY4LjIwN2wuNjQ2LjY0N2EuNS41IDAgMCAwIC43MDgtLjcwOEwxMyA1Ljc5M1YyLjVhLjUuNSAwIDAgMC0uNS0uNWgtMWEuNS41IDAgMCAwLS41LjV2MS4yOTN6TTEzIDcuMjA3VjEzLjVhLjUuNSAwIDAgMS0uNS41aC05YS41LjUgMCAwIDEtLjUtLjVWNy4yMDdsNS01eiIvPgo8L3N2Zz4K&logoColor=ffffff" target="_blank" />
+    <img src="https://img.shields.io/badge/www.ngel.me-555?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iI2ZmZmZmZiIgY2xhc3M9ImJpIGJpLWhvdXNlIiB2aWV3Qm94PSIwIDAgMTYgMTYiPgogIDxwYXRoIGQ9Ik04LjcwNyAxLjVhMSAxIDAgMCAwLTEuNDE0IDBMLjY0NiA4LjE0NmEuNS41IDAgMCAwIC43MDguNzA4TDIgOC4yMDdWMTMuNUExLjUgMS41IDAgMCAwIDMuNSAxNWg5YTEuNSAxLjUgMCAwIDAgMS41LTEuNVY4LjIwN2wuNjQ2LjY0N2EuNS41IDAgMCAwIC43MDgtLjcwOEwxMyA1Ljc5M1YyLjVhLjUuNSAwIDAgMC0uNS0uNWgtMWEuNS41IDAgMCAwLS41LjV2MS4yOTN6TTEzIDcuMjA3VjEzLjVhLjUuNSAwIDAgMS0uNS41aC05YS41LjUgMCAwIDEtLjUtLjVWNy4yMDdsNS01eiIvPgo8L3N2Zz4K&logoColor=ffffff" />
   </a>
 </div>
 
@@ -22,15 +20,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vscode" />
 </p>
 
-<hr>
-
 ## ⚡️ Stats
 
 <br>
 
 <div align=center>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=ngelx&theme=transparent&layout=normal&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ngelx's Most Used Languages" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ngelx&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ngelx's GitHub Stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=ngelx&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ngelx's Most Used Languages" />
 </div>
-
-<hr>
